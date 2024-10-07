@@ -1,0 +1,3 @@
+-- 5 students, 4 professors and 3 courses
+-- need at least 5 enrollments
+-- students in multiples courses
